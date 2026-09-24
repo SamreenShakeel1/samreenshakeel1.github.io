@@ -45,6 +45,6 @@ Additional training in Data Analytics and Business Intelligence.
 
 ## Connect
 
-[LinkedIn] https://www.linkedin.com/in/samreen-shakeel-87a36642a/
+[LinkedIn] www.linkedin.com/in/samreen-shakeel-87a36642a
 
 [Email] samreenshakeelahmadd@gmail.com
