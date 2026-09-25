@@ -19,6 +19,7 @@ An evidence-based investigation of Clonable's DACH and Scandinavian expansion st
 **Key output:** Commercial prioritization framework for Clonable's European expansion.
 
 [View Case Study](projects/clonable/case-study.md)
+[View Strategic Intelligence Brief](projects/clonable/brief.md)
 
 ---
 
