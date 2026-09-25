@@ -21,6 +21,7 @@ An evidence-based investigation of Clonable's DACH and Scandinavian expansion st
 [View Case Study](projects/clonable/case-study.md)
 
 [View Strategic Intelligence Brief](projects/clonable/brief.md)
+
 ---
 
 ## Analytical Areas
